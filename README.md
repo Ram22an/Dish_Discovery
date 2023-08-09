@@ -4,3 +4,6 @@
 
 🎯 The Mission:
 Dish Discovery aims to celebrate the diversity of global cuisine, bringing you a curated collection of mouthwatering dishes from all corners of the world. With a minimalist yet captivating interface, we prioritize the essence of your culinary exploration.
+
+💡 The Ingredients of Simplicity:
+Our website is ingeniously crafted with basic CSS and HTML, showcasing the true power of simplicity in design and functionality. This back-to-basics approach not only ensures lightning-fast loading times but also emphasizes the core essence of the dishes we present.
